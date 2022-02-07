@@ -1,0 +1,30 @@
+.nav > .nav-item > a{
+    color: grey !important;
+}
+.nav > .nav-item > a:hover{
+    color: white !important;
+}
+.firstNavLink{
+    border-bottom: 6px solid #919191 !important;
+}
+.firstNavLink:hover,.secondNavLink:hover,.thirdNavLink:hover,.forthNavLink:hover,.fifthNavLink:hover,.sixNavLink:hover,.sevenNavLink:hover{
+    background-color: #919191;
+}
+.secondNavLink{
+    border-bottom: 6px solid #E3350D !important;
+}
+.thirdNavLink{
+    border-bottom: 6px solid #ee6b2f !important;
+}
+.forthNavLink{
+    border-bottom: 6px solid #e6bc2f !important;
+}
+.fifthNavLink{
+    border-bottom: 6px solid #4dad5b !important;
+}
+.sixNavLink{
+    border-bottom: 6px solid #30a7d7 !important;
+}
+.sevenNavLink{
+    border-bottom: 6px solid #1b53ba !important;
+}

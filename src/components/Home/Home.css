@@ -1,0 +1,13 @@
+.bgImage{
+    box-sizing: border-box;
+    background: #fff url('https://assets.pokemon.com/static2/_ui/img/chrome/container_bg.png');
+    clear: both;
+    display: block;
+    margin: 0 auto;
+    max-width: 1280px;
+    overflow: hidden;
+    position: relative;
+}
+.loadMoreDiv{
+    margin: 21px;
+}

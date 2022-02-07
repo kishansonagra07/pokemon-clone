@@ -1,0 +1,29 @@
+.card{
+    border: none !important;
+}
+.card-body{
+    padding-top: 2px !important;
+}
+.pokemonId{
+    font-family: "Flexo-Bold",arial,sans-serif;
+    color: #919191;
+    font-size: 80%;
+    padding-top: 2px;
+}
+.pokemonImage{
+    width: 100% !important;
+    height: 25vw !important;
+    object-fit: fill;
+    background: #F2F2F2 !important;
+    border: none !important;
+}
+.pokemonTitle{
+    font-family: "Flexo-Demi",arial,sans-serif;
+    color: #313131;
+    text-transform: none;
+    font-size: 145%;
+    margin-bottom: 5px;
+}
+.row-cols-2>*{
+    width: 44% !important;
+}

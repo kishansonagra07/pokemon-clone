@@ -1,0 +1,30 @@
+.containerBox{
+    background: #313131;
+    float: left;
+    width: 100%;
+}
+.searchLabel{
+    float: left;
+    font-size: 167.5%;
+    text-transform: none;
+    width: 100%;
+}
+.searchTextBox{
+    border: 5px solid #5e5e5e !important;
+}
+.searchButton{
+    background-color: #ee6b2f;
+    border: none;
+    margin-top: 48px;
+    color: #fff;
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+}
+.searchRightText{
+    border-radius: 5px;
+    width: 100%;
+    background-color: #4dad5b !important;
+    font-family: "Flexo-Medium",arial,sans-serif;
+    font-size: 125% !important;
+}

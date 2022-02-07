@@ -1,0 +1,89 @@
+.badge{
+    padding: 12px !important;
+    margin: 11px !important;
+    width: 159px !important;
+}
+.badge-grass{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #9bcc50 50%, #9bcc50 50%);
+    background-color: #9bcc50;
+    color: #212121;
+}
+.badge-poison{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #b97fc9 50%, #b97fc9 50%);
+    background-color: #b97fc9;
+    color: #fff;
+}
+.badge-fire{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #fd7d24 50%, #fd7d24 50%);
+    background-color: #fd7d24;
+    color: #fff;
+}
+.badge-flying{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+    background-color: #3dc7ef;
+    color: #212121;
+}
+.badge-water{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #4592c4 50%, #4592c4 50%);
+    background-color: #4592c4;
+    color: #fff;
+}
+.badge-bug{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #729f3f 50%, #729f3f 50%);
+    background-color: #729f3f;
+    color: #fff;
+}
+.badge-normal{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #a4acaf 50%, #a4acaf 50%);
+    background-color: #a4acaf;
+    color: #212121;
+}
+.badge-ghost{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #f76e6e 50%, #f76e6e 50%);
+    background-color: #f76e6e;
+    color: #fff;
+}
+.badge-psychic{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #b37676 50%, #b37676 50%);
+    background-color: #b37676;
+    color: #fff;
+}
+.badge-fairy{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #6ccaf0 50%, #6ccaf0 50%);
+    background-color: #6ccaf0;
+    color: #fff;
+}
+.badge-ground{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #884aec 50%, #884aec 50%);
+    background-color: #884aec;
+    color: #fff;
+}
+.badge-rock{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #9fd85e 50%, #9fd85e 50%);
+    background-color: #9fd85e;
+    color: #fff;
+}
+.badge-fighting{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #d8a35e 50%, #d8a35e 50%);
+    background-color: #d8a35e;
+    color: #fff;
+}
+.badge-electric{
+    --bs-bg-opacity: 1;
+    background: linear-gradient(180deg, #9d91ad 50%, #9d91ad 50%);
+    background-color: #9d91ad;
+    color: #fff;
+}
